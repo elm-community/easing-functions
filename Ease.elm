@@ -332,4 +332,4 @@ retour easing time =
     else
         (time - 0.5)
             * 2
-            |> flip easing
+            |> reverse easing
