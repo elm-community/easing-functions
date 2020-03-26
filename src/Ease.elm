@@ -18,7 +18,7 @@ module Ease exposing
 {-| An easing function is used in animation to make a transition between two values appear more lifelike or interesting.
 Easing functions can make sliding panels or bouncing menus appear to be physical objects.
 
-All easing functions expect inputs to be bewteen zero and one, and will typically output in that range. Easing "in"
+All easing functions expect inputs to be between zero and one, and will typically output in that range. Easing "in"
 happens at the start of the transition, easing "out" at the end, and "inOut" on both sides. The functions provided here
 are meant to match the graphical examples on [easings.net](http://easings.net/).
 
